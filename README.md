@@ -10,14 +10,6 @@ PROJECT STRUCTURE :
 
 
 
-Simple conclusion
-
-Now we have a component that wrapps (HiJacking) the Dashboard component. Lets suppose we have a complex dashboard component or we have a lot of dashboard components extending a lot of requirements. Its not a good idea to  start changing each one.
-This way we can wrapper the dashboard component like did in the examples above.
-
-We can work in the wrapper component and let the dashboard the way it is.
-
-
 ![image](https://user-images.githubusercontent.com/14879580/123545408-3d30ae00-d72e-11eb-8834-67d9a8e82312.png)
 
 

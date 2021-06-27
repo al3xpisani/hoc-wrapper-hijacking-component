@@ -10,36 +10,6 @@ PROJECT STRUCTURE :
 
 
 
-
-
-
-__________________________________________________________________________________________
-
-Running code in the browser with a logged user : (passing property user = "Tommy")
-
-
-Output is : 
-
-Wrapper function : 
-
-
-
-
-___________________________________________________________________________________________
-
-Running code in the browser without a logged user : 
-
-
-
-Output is : 
-
-
-Wrapper function : 
-
-
-
-
-
 Simple conclusion
 
 Now we have a component that wrapps (HiJacking) the Dashboard component. Lets suppose we have a complex dashboard component or we have a lot of dashboard components extending a lot of requirements. Its not a good idea to  start changing each one.
